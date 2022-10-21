@@ -405,6 +405,10 @@ footer {
     margin-top: var(--main-padding);
     font-weight: var(--bold-weight);
   }
+
+  header {
+    padding-top: 300px !important;
+  }
 }
 
 /* THEMES
